@@ -1,0 +1,19 @@
+.navitem{
+    background-image: linear-gradient( 269.2deg, #987596 2%, #3a7bfe 89.7% );
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.2rem;
+}
+.nav-link{
+    list-style-type: none;
+    display: flex;
+}
+.nav-link li{
+    padding: 10px 20px;
+}
+.nav-link li a{
+    text-decoration: none;
+    color: white;
+}
